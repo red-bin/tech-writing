@@ -107,7 +107,7 @@ graph LR
 10.0.0.138 --> 94.31.29.54:443
 ```
 
-Which ends up looking like: ![](http://imgur.com/a/9g7Pc)
+Which ends up looking like: http://imgur.com/a/9g7Pc
 
 ###What's next?
 
